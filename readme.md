@@ -1,0 +1,1 @@
+Composer configuration to fetch [php-gettext](https://launchpad.net/php-gettext/) non-packagist repository by Danilo Segan
